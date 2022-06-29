@@ -2,7 +2,7 @@
 ## General Simulation Parameters
 | Parameter      | Value |
 | ----------- | ----------- |
-| Chamber Pressure     | 20 Mpa      |
+| Chamber Pressure     | 2.0 Mpa      |
 | Pi/Pe   | 19.643        |
 |Equilibrium | Frozen|
 
