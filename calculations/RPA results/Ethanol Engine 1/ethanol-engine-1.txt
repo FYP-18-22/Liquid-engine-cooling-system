@@ -1,0 +1,31 @@
+Nakuja Liquid Engine Test 4
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    2.66713     kN
+ Specific impulse (vac):  271.97148      s
+   Chamber thrust (opt):    2.33037     kN
+ Specific impulse (opt):  237.63179      s
+   Total mass flow rate:    1.00000   kg/s
+Oxidizer mass flow rate:    0.60000   kg/s
+    Fuel mass flow rate:    0.40000   kg/s
+
+Geometry of thrust chamber with parabolic nozzle
+------------------------------------------
+    Dc =  131.26  mm       b =   30.00 deg
+    R2 =  171.40  mm      R1 =   24.61  mm
+    L* = 1697.69  mm
+    Lc =  165.33  mm    Lcyl =   27.56  mm
+    Dt =   32.82  mm
+    Rn =    6.27  mm      Tn =   17.51 deg
+    Le =   52.30  mm      Te =   15.76 deg
+    De =   64.17  mm
+ Ae/At =    3.82    
+ Le/Dt =    1.59    
+Le/c15  =   88.16 % (relative to length of cone nozzle with Te=15 deg)
+
+  Mass =   -6.80  kg
+
+  Divergence efficiency:    0.99002       
+        Drag efficiency:    0.96502       
+     Thrust coefficient:    1.57802  (vac)
