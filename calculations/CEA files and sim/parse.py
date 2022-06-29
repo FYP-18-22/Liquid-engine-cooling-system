@@ -28,12 +28,13 @@ df = pd.DataFrame()
 Of_ratio = []
 Imp = []
 Kelvin = []
+Mass_flux_ratio = []
 for output in outputs:
     dic = {}
     Pin = output.split('Pin =')[1].split('PSIA')[0].strip()
     O_F = output.split('O/F=')[1].split('%FUEL')[0].strip()
     Temp = output.split('T, K')[1].split('RHO')[0].strip().split()[0]
-    #print(Temp)
+    flux = output.split('M, (1/n)')[1].split('(dLV/dLP)t')[0].strip().split()[0] 
     Isp = output.split('Isp, M/SEC')[1].split('MOLE')[0].strip().split()[1]
     #dic['Pin'] = float(Pin)
     #dic['O_F'] = float(O_F)
@@ -41,6 +42,7 @@ for output in outputs:
     Of_ratio.append(float(O_F))
     Imp.append(float(Isp)/9.81)
     Kelvin.append(float(Temp))
+    Mass_flux_ratio.append(float(Temp)/float(flux))
 
     #dic['Temp'] = float(Temp)
     
@@ -74,5 +76,9 @@ axs[1].set(ylabel='Isp(s)')
 axs[1].set_title('Temperature against oxodizer-fuel ratio')
 
 annot_max(np.array(Of_ratio),np.array(Kelvin))
+
+
+#plt.plot(Of_ratio,Mass_flux_ratio) to plot ratio of heat to molar mass
+
 
 plt.show()
