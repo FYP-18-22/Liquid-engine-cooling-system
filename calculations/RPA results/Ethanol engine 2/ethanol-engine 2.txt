@@ -1,0 +1,31 @@
+Nakuja test 5
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    2.27310     kN
+ Specific impulse (vac):  269.21358      s
+   Chamber thrust (opt):    1.99239     kN
+ Specific impulse (opt):  235.96808      s
+   Total mass flow rate:    0.86100   kg/s
+Oxidizer mass flow rate:    0.50225   kg/s
+    Fuel mass flow rate:    0.35875   kg/s
+
+Geometry of thrust chamber with parabolic nozzle
+------------------------------------------
+    Dc =  121.66  mm       b =   30.00 deg
+    R2 =  158.86  mm      R1 =   22.81  mm
+    L* = 1573.47  mm
+    Lc =  153.24  mm    Lcyl =   25.54  mm
+    Dt =   30.41  mm
+    Rn =    5.81  mm      Tn =   17.32 deg
+    Le =   62.67  mm      Te =    8.00 deg
+    De =   58.58  mm
+ Ae/At =    3.71    
+ Le/Dt =    2.06    
+Le/c15  =  117.52 % (relative to length of cone nozzle with Te=15 deg)
+
+  Mass =   -6.89  kg
+
+  Divergence efficiency:    0.99157       
+        Drag efficiency:    0.96223       
+     Thrust coefficient:    1.56562  (vac)
