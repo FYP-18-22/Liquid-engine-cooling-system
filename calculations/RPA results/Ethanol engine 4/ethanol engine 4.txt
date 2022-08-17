@@ -1,0 +1,26 @@
+Engine 4
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    3.06220     kN
+ Specific impulse (vac):  263.05813      s
+   Chamber thrust (opt):    2.66246     kN
+ Specific impulse (opt):  228.71844      s
+   Total mass flow rate:    1.18703   kg/s
+Oxidizer mass flow rate:    0.71222   kg/s
+    Fuel mass flow rate:    0.47481   kg/s
+
+Geometry of thrust chamber with conical nozzle
+------------------------------------------
+    Dc =  143.01  mm       b =   30.00 deg
+    R2 =  186.74  mm      R1 =   26.81  mm
+    L* = 1849.64  mm
+    Lc =  180.13  mm    Lcyl =   30.02  mm
+    Dt =   35.75  mm
+    Rn =    6.83  mm      Te =   25.00 deg
+    Le =   38.14  mm
+    De =   69.91  mm
+
+  Mass =   -6.71  kg
+
+  Divergence efficiency:    0.95315       
