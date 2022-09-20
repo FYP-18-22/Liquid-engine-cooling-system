@@ -11,7 +11,8 @@ The fuel comprises of 75% ethanol and 25% water. The difference between the two 
 
 ## ethanol_sim_3 and ethanol_sim_4
 The fuel consists of 100% ethanol.The difference between the two files is the range of Oxidizer to fuel ratios.
-
+## ethanol_sim_5
+The fuel consists of 80% ethanol and 20% water.
 ## rp-1_sim and rp-1_sim_2
 The fuel is 100% rp_1. The difference between the two is the oxidizer to fuel ratio.
 
