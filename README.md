@@ -1,4 +1,5 @@
-# **LIQUID ROCKET ENGINE COOLING SYSTEM**![Nakuja Project Logo](resources/images/Nakuja%20Logo.jpg)
+![Nakuja Project Logo](resources/images/Nakuja%20Logo.jpg)
+# **LIQUID ROCKET ENGINE COOLING SYSTEM**
 ---
 ![repo-size](https://img.shields.io/github/repo-size/FYP-18-22/Liquid-engine-cooling-system?style=plastic)
 ![last commit](https://img.shields.io/github/last-commit/FYP-18-22/Liquid-engine-cooling-system)
