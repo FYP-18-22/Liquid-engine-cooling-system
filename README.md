@@ -1,5 +1,11 @@
 # **LIQUID ROCKET ENGINE COOLING SYSTEM**![Nakuja Project Logo](resources/images/Nakuja%20Logo.jpg)
-
+---
+![repo-size](https://img.shields.io/github/repo-size/FYP-18-22/Liquid-engine-cooling-system?style=plastic)
+![last commit](https://img.shields.io/github/last-commit/FYP-18-22/Liquid-engine-cooling-system)
+![contributors](https://img.shields.io/github/contributors/FYP-18-22/Liquid-engine-cooling-system)
+![license](https://img.shields.io/github/license/FYP-18-22/Liquid-engine-cooling-system?style=plastic)
+![language](https://img.shields.io/github/languages/top/FYP-18-22/Liquid-engine-cooling-system)
+---
 ## **Introduction and description**
 The repository details the design and development of a liquid rocket engine cooling system. The project was developed to meet the goals of the [Nakuja Project](https://nakujaproject.com). The project begun by first design a liquid rocket engine with the following parameters:
 
